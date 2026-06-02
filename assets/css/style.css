@@ -1,0 +1,44 @@
+/*#69022f */
+
+a { color:#505c73; }
+
+#sidebar ul { margin:0;padding:0 }
+#sidebar ul li { list-style-type:none; }
+
+#gallery {
+  display:flex;
+  flex-direction:row;
+  flex-wrap:wrap;
+  justify-content: center;
+}
+.card {
+  width: 32%;
+  margin:0.5%;
+}
+.card h2 { font-size:1.3em; }
+.card-body { display:flex;flex-direction:column;justify-content:space-between; }
+.icon { height:22px; }
+
+#cloud {  }
+.tag { 
+ background:#505c73;
+ font-size:1em;
+ padding:4px 6px;
+ border-radius:6px;
+ margin:2px;
+ color:white;
+ text-decoration:none;
+ word-wrap;nowrap;
+ margin-bottom: 0.6em;
+ display: inline-block;
+}
+
+#cloud .tag { 
+ background:transparent;
+ color:black;
+ padding:0px;
+ margin:2px;
+}
+.tag:hover { background:#357476; }
+
+input {  background:white; padding:5px 9px; border:solid 1px #AAA; border-radius:4px;}

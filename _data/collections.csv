@@ -1,0 +1,143 @@
+Name,URL,Rating,Notes,Detektiiif,InViewer,IIIFLink,IIIFLogo,DragDrop,Comment,Acad Tech,Latitude,Longitude
+Amherst College,https://acdc.amherst.edu/view/asc,4,,,,1,1,,,https://www.aws.amherst.edu/offices/it/academic-technology-services,-72.5170028,42.3709104
+Baylor University,https://digitalcollections-baylor.quartexcollections.com/,4,Icon goes to wrong place,,,1,1,,,https://library.web.baylor.edu/learningtechnologies,-97.11354,31.5500848
+Bibliothèque Nationale de France,https://gallica.bnf.fr/accueil/fr/html/accueil-fr,4,,,,1,1,,,,2.3389067,48.8672227
+Biblissima,https://iiif.biblissima.fr/collections/,4,an assembly of many repositories. All IIIF links use ?iiif-content=,,,1,1,?,,,2.3862252,48.8201942
+Black Hills State University,https://explore.digitalsd.org/digital/custom/bhsu,4,,,,1,1,,,,-103.8722763,44.4993591
+Bodleian Library,https://digital.bodleian.ox.ac.uk/,4,bw logo somewhat obscured,,,1,1,,,,-1.254042,51.754073
+"California, University of (Berkeley)",https://www.lib.berkeley.edu/find/digital-collections,4,,,,1,1,,,,-122.2594606,37.870151
+"California, University of (Berkeley)",https://digicoll.lib.berkeley.edu/,4,,,,1,1,,,https://rtl.berkeley.edu/,-122.2594606,37.870151
+"California, University of (Los Angeles)",https://digital.library.ucla.edu/,4,,,,1,1,,Excellent,,-118.4438495,34.0699182
+"California, University of (Santa Cruz)",https://digitalcollections.library.ucsc.edu/,4,logo goes to iiif.io ,,,1,1,,,https://tlc.ucsc.edu/about/who-we-are/,-122.0584354,36.9905322
+Cambridge University,https://cudl.lib.cam.ac.uk/,4,,,,1,1,1,Excellent,,0.1077233,52.2051088
+Center For Research Libraries,https://digitalcollections.crl.edu/,4,,,,1,1,,,,-87.5935751,41.784498
+Colorado College,https://digitalcc.coloradocollege.edu/,4,same as crl above,,,1,1,,,,-104.82542,38.84919
+Dakota State University,https://explore.digitalsd.org/digital/custom/dsu,4,,,,1,1,,,,-97.1103618,44.0126125
+Dakota Wesleyan University,https://explore.digitalsd.org/digital/custom/dwu,4,,,,1,1,,,,-98.03122,43.697665
+Duke University,https://repository.duke.edu/dc,4,,,,1,1,,Very good,https://learninginnovation.duke.edu/,-78.9382286,36.0014258
+Durham University,https://discover.durham.ac.uk/discovery/search?vid=44DUR_INST:VU1,4,"says you can drag icon, but drag doesn't work",,,1,1,?,,,-1.5782029,54.7649859
+"Edinburgh, University of",https://collections.ed.ac.uk/,4,,,,1,1,,CORS issues,,,
+Fordham University,https://www.library.fordham.edu/digital/,4,logo displayed but not functional - hard to find,,,1,1,,,https://www.fordham.edu/information-technology/it-services/academic-technology/,,
+Georgia State University,https://digitalcollections.library.gsu.edu,4,,,,1,1,,,https://cetloe.gsu.edu/teaching-technology/,-84.3852819,33.753068
+"Georgia, Digital LIbrary Of",https://dlg.usg.edu/collections,4,icon links to Mirador,,1,,1,1,,,,
+"Georgia, Digital Library of",https://dlg.usg.edu/,4,duplicate,,,1,1,1,,https://ctl.uga.edu/,-83.3724242,33.9423394
+"Göttingen, University of",https://www.sub.uni-goettingen.de/en/digital-library/digital-resources/,4,bw icon,,,1,1,,,,9.9375952,51.5414946
+Hamilton College,https://litsdigital.hamilton.edu/collections/hamilton-college-library-digital-collections,4,icon copies link,,,1,1,,,https://www.hamilton.edu/offices/lits/research-instructional-design/digital-project-design,,
+Harvard Art Museums,https://harvardartmuseums.org/collections,4,,,,1,1,1,Excellent,,-71.1143582,42.3740898
+Hoover Institution,https://digitalcollections2.hoover.org/,4,,,,1,1,,,,-122.1663503,37.4272462
+"Illinois, University of (Urbana-Champaign)",https://metadata.library.illinois.edu/collections?fq%5B%5D=system_keyword_service_key:dls,4,hard to find - sometimes forbdden!,,,1,1,,,https://citl.illinois.edu/,-88.2271615,40.1019523
+Kyoto University,https://rmda.kulib.kyoto-u.ac.jp/en,4,,,,1,1,,good,,135.7808218,35.0262444
+Lancaster University,https://digitalcollections.lancaster.ac.uk/collections/,4,,,,1,1,1,excellent,,-2.7877294,54.0103942
+Laurentian Medici Library,https://iiif.biblissima.fr/collections/search?collection=Teca%20digitale%20-%20Biblioteca%20Medicea%20Laurenziana,4,?iiif-content=,,,1,1,,good,,11.2538362,43.7746737
+"Leeds, University of",https://digital.library.leeds.ac.uk/,4,icon links to iiif.io,,,1,1,,,,-1.5550328,53.8066815
+Loyola Marymount University,https://digitalcollections.lmu.edu/,4,icon links to iiif.io,,,1,1,,,https://its.lmu.edu/whoweare/staff/teachinglearningandresearchtechnology/,-118.4188984,33.9691953
+Miami University,https://www.lib.miamioh.edu/digital-collections/,4,,,,1,1,,,https://miamioh.edu/ehs/about/facilities/engaging-technology-lab.html,-84.7344915,39.5087485
+Michigan State University,https://d.lib.msu.edu/msul,4,,,,1,1,,,https://teachingcenter.msu.edu/,-84.4790827,42.7250725
+Mmmonk,https://www.mmmonk.be/en/manuscripts,4,"collaborative project between Bruges Public Library, Ghent University Library, Major Seminary Ten Duinen in Bruges and Ghent Diocese",,,1,1,,excellent,,3.2230443,51.2097981
+National Library of Norway,https://www.nb.no/search,4,NOT WORKING,,,1,1,1,"WOULD BE EXCELLENT, BUT NOT WORKING",,10.7173052,59.9143327
+National Library of Portugal,https://iiif.biblissima.fr/collections/search?collection=Biblioteca%20Nacional%20de%20Portugal%20-%20Biblioteca%20Nacional%20Digital,4,,,,1,1,?,,,-9.1526399,38.7511102
+Natural HIstory Museum of UK,https://data.nhm.ac.uk/dataset/collection-specimens/resource/05ff2255-c38a-40c9-b657-4ccb55ab2feb/record/4659958,4,,,,1,1,,excellent,,,
+Norman B. Leventhal Map & Education Center,https://www.leventhalmap.org/,4,,,,1,1,,Excellent,,-71.0781568,42.3492841
+Northern State University (Digital Library of South Dakota),https://explore.digitalsd.org/digital/custom/nsu,4,,,,1,1,,,,-98.4829326,45.4510068
+Northwestern University,https://www.library.northwestern.edu/libraries-collections/digital-collections/,4,,,,1,1,,,https://digitallearning.northwestern.edu/,-87.675267,42.0564594
+Ohio University,https://www.ohio.edu/library/collections/digital-archives,4,,,,1,1,,Very good,,-82.1013889,39.324358
+Oklahoma Department of Libraries,https://digitalprairieok.net/,4,,,,1,1,,Very Good,,-97.507904,35.4877052
+Oxford University,https://www.bodleian.ox.ac.uk/collections-and-resources/special-collections/digital-collections,4,a little hidden but pretty good,,,1,1,,,,,
+Purdue University,https://earchives.lib.purdue.edu/digital,4,,,,1,1,,Very good,,-86.9211946,40.4237054
+Rice University,https://digitalcollections.rice.edu/,4,,,,1,1,,,,-95.4035531,29.7168363
+Samford University,https://digitalcollections.samford.edu,4,,,,1,1,,,,-86.7913423,33.4649218
+"San Francisco, University of",https://digitalcollections.usfca.edu/,4,,,,1,1,,Very good,,-122.4507187,37.7765643
+"Scotland, National Library of",https://digital.nls.uk/gallery/,4,,,,1,1,1 - if dragged from UV,Very Good,,-3.1919722,55.9485782
+Smart Museum of Art,https://smartcollection.uchicago.edu/collections,4,,,,1,1,,"Would be excellent, but not working",,-87.6001981,41.7935717
+Smithsonian Institution,https://www.si.edu/collections,4,,,,1,1,,Very good / excellent,,,
+Smithsonian National Museum of American History,https://americanhistory.si.edu/collections/,4,,,,1,1,,Very good / excellent,,-77.0300509,38.8912793
+South Dakota School of Mines & Technology,https://explore.digitalsd.org/digital/custom/sdsmt,4,,,,1,1,,Very good,,-103.2062801,44.0730941
+South Dakota State University,https://explore.digitalsd.org/digital/custom/sdsu,4,,,,1,1,,Very good,,-96.7835182,44.3191071
+"South Dakota, University of",https://explore.digitalsd.org/digital/custom/usd,4,,,,1,1,,Very goodf,,-96.7357666,43.5425426
+State Archives of North Carolina,https://digital.ncdcr.gov/,4,,,,1,1,,,,-78.63714,35.7828545
+Stony Brook University,https://exhibits.library.stonybrook.edu/s/digital-projects/page/welcome,4,,,,1,1,,very strange manifest urls,,-73.1237618,40.9041385
+The Claremont Colleges,https://ccdl.claremont.edu/,4,,,,1,1,,excellent,,-117.71304,34.0776
+"The Huntington Library, Art Museum, and Botanical Gardens",https://hdl.huntington.org/,4,,,,1,1,,excellent,,-118.1145242,34.1290452
+The Metropolitan Museum of Art,https://www.metmuseum.org/art/libraries-and-research-centers/watson-digital-collections,4,,,,1,1,,excellent,,-73.963244,40.7794366
+The University of British Columbia,https://open.library.ubc.ca/,4,hard to find but OK,,,1,1,,,,-123.2459939,49.2606052
+The University of Manchester,https://www.digitalcollections.manchester.ac.uk/,4,,,,1,1,1,excellent,,-2.2338837,53.4668498
+Universiteit Leiden,https://digitalcollections.universiteitleiden.nl/,4,only rare books collection,,1,1,1,,,,4.4866564,52.156569
+van Hamel Foundation for Celtic Studies,https://codecs.vanhamel.nl/Home,4,,,,1,1,,very good,,,
+"Washington, University of",https://digitalcollections.lib.washington.edu,4,,,,1,1,,excellent,,-122.3081762,47.6516448
+"Wisconsin, University of (Milwaukee)",https://uwm.edu/lib-collections/,4,,,,1,1,,excellent,https://uwm.edu/cetl/,-87.8819686,43.078263
+Yale University,https://library.yale.edu/explore-collections/explore/digital-collections,4,,,,1,1,,excellent,,-72.9223431,41.3163244
+Art Institute of Chicago,https://www.artic.edu/collection,3,,,,1,,,,https://www.saic.edu/crit,,
+Brigham Young University,https://lib.byu.edu/collections/digital/,3,logo broken,,,1,,,,https://ctl.byu.edu/media-technology,-111.6493156,40.2518435
+"British Columbia, University of",https://open.library.ubc.ca,3,logo displayed but not functional,,,1,,,,https://lthub.ubc.ca/,,
+Brown University,https://repository.library.brown.edu/studio/collections/library/,3,excellent support but no logo,,,1,,,,"https://library.brown.edu/create/cds/ , https://dld.brown.edu/",-71.4025482,41.8267718
+"Cape Town, University of",https://ibali.uct.ac.za/s/ibali/page/welcome,3,logo in UV. link availabkle but labeled 'image',,,1,,,,,18.4611991,-33.957652
+Folger Shakespeare Library,https://digitalcollections.folger.edu/,3,no logo. LInk + link in Mirador,,,1,,,,,-77.0027563,38.8892957
+Harvard University,https://curiosity.lib.harvard.edu/,3,logo displayed but not functional. separate link to copy manifest link,,,1,,,,,-71.1182488,42.3744368
+Lafayette College,https://ldr.lafayette.edu/,3,,,1,,,1,,,,
+"Miami, University of",https://digitalcollections.library.miami.edu/digital/,3,iiif icon not functional,,,1,,,,https://academictechnologies.it.miami.edu/index.html,-80.2781262,25.7173947
+"Michigan, University of",https://quod.lib.umich.edu/lib/colllist/,3,,,,1,,,,,-83.7382071,42.277145
+"North Texas, University of",https://digital.library.unt.edu/,3,only via Detekt,1,,1,,,,,-97.1525862,33.207488
+"Pennsylvania, University of",https://colenda.library.upenn.edu,3,unique link style,,,1,,,,,39.95240759,-75.19349954
+Pepperdine University,https://pepperdine.quartexcollections.com/,3,icon links to iiif.io,,,1,,,,,-118.709596,34.0415037
+"Portland, University of",https://digital.up.edu,3,icon links to iiif.io,,,1,,,,,-122.7275712,45.5732046
+The Art Institute of Chicago,https://www.artic.edu/collection,3,,,,1,,,"no icon, but excellent",,-87.6223504,41.8796031
+Victoria and Albert Museum,https://www.vam.ac.uk/collections?type=featured,3,very well hidden,,,1,,,,,-0.17218,51.4966392
+Bavarian state library,https://www.digitale-sammlungen.de/en/,2,in Mirador,,1,,,,,,11.5803217,48.147493
+Cal State University Library,https://archives.calstate.edu/,2,only in UV,,1,,,1,,,-118.1674526,34.0674401
+Carnegie Mellon,https://digitalcollections.library.cmu.edu/collections,2,only in Mirador,,1,,,,,https://www.cmu.edu/teaching/technology/,,
+Columbia University,https://library.columbia.edu/libraries/rbml/digitalcollections.html,2,"only in Mirador, does not use Image API",,1,,,,,,-73.9625727,40.8075355
+Drexel University,https://drexel.alma.exlibrisgroup.com/discovery/collectionDiscovery?vid=01DRXU_INST:01DRXU,2,only in Mirador,,1,,,,,https://www.lebow.drexel.edu/about/support-services/instructional-technology,,
+East Carolina University,https://digital.lib.ecu.edu/,2,only in Mirador,,1,,,,,,-77.3665364,35.6068806
+Eastern Kentucky University,https://digitalcollections.eku.edu/collections/browse?sort_field=Dublin+Core%2CTitle,2,only in UV,,1,,,1,,,-84.2987483,37.7359731
+Emory University,https://digital.library.emory.edu/,2,only in UV,,1,,,1,,https://canvas-support.emory.edu/,-84.3252791,33.7973735
+"Hawaii, University of (Manoa)",https://digital.library.manoa.hawaii.edu,2,only in UV,,1,,,1,,,-157.8148228,21.299824
+Indiana University,https://digitalcollections.iu.edu/,2,only in UV,,1,,,1,,https://citl.indiana.edu,-86.5230073,39.1682449
+Lehigh University,https://preserve.lehigh.edu/,2,only in Mirador,,1,,,,,https://lts.lehigh.edu/citl,,
+M Leuven,https://www.mleuven.be/en,2,only in Mirador,,1,,,,,,4.7045671,50.8789497
+Minnesota Digital Library,https://mndigital.org/,2,only in UV,,1,,,1,,,-93.2434917,44.9709073
+"Montreal, University of",https://calypso.bib.umontreal.ca/,2,only in Mirador,,1,,,,,,-73.6137592,45.5056156
+National Library of Medicine,https://collections.nlm.nih.gov/,2,only in UV,,1,,,1,,,-77.0988323,38.9959508
+North Carolina State University,https://www.lib.ncsu.edu/digital-collections,2,only in UV,,1,,,1,,https://www.lib.ncsu.edu/do/digital-scholarship,-78.6812824,35.7850744
+"North Carolina, University of",https://dcr.lib.unc.edu/,2,only in Clover,,1,,,,,,-79.0469134,35.9049122
+North Dakota State University,https://library.ndsu.edu/ndsuarchives/collections/digital-collections,2,only in Mirador,,1,,,,,,-96.8024367,46.8977528
+"Notre Dame, University of",https://marble.nd.edu/,2,only in Mirador,,1,,,,,https://studios.nd.edu/services/teaching-and-learning-technologies/,-86.2351655,41.7051917
+Princeton Art Museum,https://artmuseum.princeton.edu/,2,only in Mirador,,1,,,,,,-74.6575176,40.346882
+Princeton University,https://dpul.princeton.edu/,2,only in UV,,1,,,1,,,-74.6550739,40.3430942
+Stanford University,https://searchworks.stanford.edu/?f[collection_type][]=Digital+Collection,2,only in Mirador,,1,,,,,,-122.17006,37.42766
+Statewide California Electronic Library Consortium,http://callimachus.org/,2,only in Detekt,1,,,,,,,-120.3426672,37.3405573
+Texas A&M University,https://library.tamu.edu/research/digital_collections,2,only in Mirador,,1,,,,,https://cte.tamu.edu/,-96.3539706,30.6060274
+The Ohio State University,https://library.osu.edu/dc,2,only in UV,,1,,,1,,,-83.0282624,40.0060889
+"Toronto, University of",https://onesearch.library.utoronto.ca/digital-collections,2,sometimes available in Mirador,,1,,,,,https://teaching.utoronto.ca/,-79.3958273,43.663487
+"TriCo (Bryn Mawr, Haverford, Swarthmore)",https://digitalcollections.tricolib.brynmawr.edu/,2,available in Mirador,,1,,,,,,-75.32201,39.9616083
+Trinity College Dublin,https://digitalcollections.tcd.ie/,2,sometimes available in UV,,1,,,,CORS error,,-6.2545716,53.3437935
+"University of the Arts London, Camberwell College of Arts",https://digitalcollections.arts.ac.uk,2,only in Mirador,,1,,,1,,,-0.080359,51.4742989
+Vassar College,https://digitallibrary.vassar.edu/collections/other-collections/overview,2,only in Mirador,,1,,,,,,-73.89571,41.68682
+Vatican City,https://digi.vatlib.it/all/,2,only in Mirador,,1,,,,,,12.453389,41.902916
+"Victoria, University of",https://vault.library.uvic.ca/,2,only in UV,,1,,,1,,https://www.uvic.ca/learningandteaching/index.php,,
+Villanova University,https://digital.library.villanova.edu/,2,only in Mirador,,1,,,,,,-75.3425785,40.0368926
+"Wales, National Library of",https://www.library.wales/discover-learn/digital-exhibitions,2,only in UV,,1,,,1,,,-4.0685192,52.414551
+Wichita State University,https://libraries.wichita.edu/sc/digital,2,only in Mirador,,1,,,,,,-97.291526,37.7190782
+Willamette University,https://digitalcollections.willamette.edu/home,2,only in Mirador,,1,,,,,,-123.0307101,44.9352335
+"California State University, Chico",http://archives.csuchico.edu/,1,only via Detekt,1,,,,,,,-121.8478871,39.7296653
+"Getty, The",https://www.getty.edu/art/collection/,1,only with Detekt,1,,,,,,,-118.4732648,34.0773438
+Johns Hopkins University,https://dlmm.library.jhu.edu,1,only with Detekt,1,,,,,,https://ctei.jhu.edu/,-76.6205177,39.3299013
+"Maryland, University of",https://digital.lib.umd.edu/,1,only in Detekt,1,,,,,,,-76.9425543,38.9869183
+PALNI,https://palni.contentdm.oclc.org/digital/,1,only with Detekt,1,,,,,,,-86.1726021,39.8399145
+Pennsylvania State University,https://digital.libraries.psu.edu/,1,image API only in Detekt,1,,,,,,https://tlt.psu.edu/,,
+The British Library,https://www.bl.uk/research/digitised-manuscripts/,1,only with Detekt,1,,,,,,,-0.1276759,51.5299717
+"Chicago, University of",https://www.lib.uchicago.edu/collex/?digital=on&view=collections,0,,,,,,,,https://academictech.uchicago.edu/teaching-tools/,,
+Cornell University,https://digital.library.cornell.edu/catalog/ss:34207883,0,no iiif,,,,,,,https://teaching.cornell.edu/learning-technologies,,
+Dartmouth University,https://www.library.dartmouth.edu/digital/digital-collections,0,really hard to figure out,,,,,,,https://sites.dartmouth.edu/ldi/about-us/who-we-are/,,
+Georgetown University,https://library.georgetown.edu/digitalgeorgetown,0,only in UV,,1,,,1,,https://cndls.georgetown.edu/about/people/,,
+"Georgia, University of",https://www.libs.uga.edu/scl/exhibits/digital,0,,,,,,,,https://ctl.uga.edu/learning-technologies/learning-glass/,,
+"Kentucky, University of",https://exploreuk.uky.edu/,0,,,,,,,,,,
+McGill University,https://www.mcgill.ca/library/find/digitization/digitalimagecollections,0,,,,,,,,,-73.5783235,45.5060184
+"Pittsburgh, University of",,0,,,,,,,,https://teaching.pitt.edu/,,
+Smithsonian Library,https:/library.si.edu/collections,0,,,,,,,,,,
+Smithsonian National Air and Space Museum,https://airandspace.si.edu/edan/search/browse_object_groups,0,,,,,,,,,-77.0198679,38.8881601
+"Tennessee, University of",https://digital.lib.utk.edu/collections/,0,only for some items - mixed bag,,,,,,,,-83.9294564,35.9544013
+Universiteit Gent - Campus Dunant,https://lib.ugent.be/en/catalog/access:zoomable?sort=old-to-new,0,,,,,,,,,3.7036509,51.0489744
+Vanderbilt University,,0,,,,,,,,https://www.vanderbilt.edu/advanced-institute/,,
+"Virginia, University of",,0,,,,,,,,https://cte.virginia.edu/,,
+The Revolutionary City,https://therevolutionarycity.org,2,,,1,,,,,,,
+American Philosophical Society,https://diglib.amphilsoc.org/,0,only uses image API,,,,,,,,,

@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+  {%- include head.html -%}
+
+  <body>
+
+    {%- include header.html -%}
+    
+  <div class="container" style="margin-top:2em;">
+    <div class="row">
+
+    <div class="col-sm-4" id="sidebar">
+      <ul>
+         {% for o in site.org %}
+	  <li><a href="{{ site.baseurl }}{{ o.url }}"> {{ o.title }}</a> 
+	  {% if o.cors == 0 %}<span style="color:red;font-weight:bold"><img src="{{site.baseurl}}/assets/images/alert.svg"/></span>{% endif %}</li>
+	{% endfor %}
+      </ul>
+    </div>
+    
+    <div class="col-sm-8">
+    
+        
+
+        
+        
+        {{ content }}
+        
+        <hr />
+        
+        
+        <div id="results"></div>
+        
+        
+    </div>
+    
+    
+    </div>
+
+  
+  </div> <!-- /.container --> 
+  
+
+
+    {%- include footer.html -%}
+
+  </body>
+
+</html>
